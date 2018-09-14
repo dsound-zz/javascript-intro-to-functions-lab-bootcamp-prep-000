@@ -1,14 +1,18 @@
 function shout(string) {
+
  return string.toUpperCase()
   }
 function whisper(string) {
+  
   return string.toLowerCase()
     }
 function logShout(string) {
+  
   console.log('HELLO')
 }    
 function logWhisper(string) {
-  console.log('hello')
+  c
+  onsole.log('hello')
 }
 function sayHiToGrandma(string) {
   if (string.toLowerCase() === string) {
@@ -22,4 +26,8 @@ function sayHiToGrandma(string) {
    }
      
 } 
+
+
+return string.toUpperCase()
+}
 
